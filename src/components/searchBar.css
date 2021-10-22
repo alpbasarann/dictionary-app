@@ -1,0 +1,21 @@
+input {
+    width: 100%;
+    max-width: 700px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+button {
+  display: block;
+  background-color: #216869;
+  color: #fff;
+  font-size: 0.9rem;
+  border: 0;
+  border-radius: 5px;
+  height: 40px;
+  padding: 0 20px;
+  cursor: pointer;
+  box-sizing: border-box;
+}
